@@ -1,0 +1,21 @@
+*{
+    background-color: #eee;
+}
+
+.stickers img{
+    height: 100%;
+    width: 100%;
+}
+.skills{
+    border: 2px solid black;
+    margin: 10px 0;
+    background-color: #f0ad4e;
+}
+.progress{
+    border: 2px solid black;
+}
+
+.sktable{
+    margin:2em;
+}
+
